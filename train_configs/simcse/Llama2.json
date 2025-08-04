@@ -1,5 +1,5 @@
 {
-    "model_name_or_path": "ELYZA-japanese-Llama-2-7b" #"meta-llama/Llama-2-7b-chat-hf",
+    "model_name_or_path": "ELYZA-japanese-Llama-2-7b", #"meta-llama/Llama-2-7b-chat-hf",
     "peft_model_name_or_path": "McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp",
     "simcse_dropout": 0.3,
     "bidirectional": true,
